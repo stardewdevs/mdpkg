@@ -2,7 +2,7 @@
 name = "mpkg"
 version = "1.16.0"
 edition = "2021"
-authors = ["Stardew Contributors"]
+authors = ["Stardewdevs"]
 description = "Modern package manager for Stardew"
 license = "Apache-2.0"
 repository = "https://github.com/stardewdevs/mdpkg"
